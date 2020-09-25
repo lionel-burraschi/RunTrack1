@@ -1,0 +1,29 @@
+body{
+    font-family: Tahoma, sans-serif;
+    background-color: rgb(161, 221, 223);
+}
+
+table, th, td{
+    border-collapse: collapse;
+    text-align: left;
+    width:40em;
+    border: 1px solid black;
+    margin: auto;
+}
+
+h2{
+    text-align: center;
+    font-size: 7mm;
+}
+
+tr:nth-child(even) {
+    background-color: #daf1f8;
+}
+
+#principale{
+
+}
+
+.secondaire{
+
+}
